@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IN_SAOVISAL</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Categories</string>
+    <string name="tab_text_3">Search</string>
+    <string name="tab_text_4">Account</string>
+</resources>
